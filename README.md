@@ -11,7 +11,7 @@
 
 I'm **Renan Yuji**, an **Aspiring Data Scientist** with hands-on experience in **process automation**, passionate about AI and focused on using data to generate real **business value**.
 
-My experience comes from working with **RPA** at the **Per Diem and Travel Management Service** (*Serviço de Gestão de Diárias e Passagens*), where I worked on:
+My experience comes from working with **RPA** at the **Travel and Daily Allowance Management Service** (*Serviço de Gestão de Diárias e Passagens*), where I worked on:
 
 - ⚙️ **Payment automation** — reducing manual work and speeding up payment flows
 - ✅ **Automated verification** — validating data and requests to minimize errors and rework
