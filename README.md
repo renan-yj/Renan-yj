@@ -59,12 +59,12 @@ This experience showed me how technology can turn repetitive, error-prone tasks 
   </tr>
 </table>
 
-<h2>👨‍💻 About me</h2>
+<h2>⚡ Quick facts</h2>
 
-- 🌱 Exploring **Python**, **Data Analysis** and **Machine Learning**
-- 🔭 Building projects that connect data, AI and business insights
-- 🧗 When not coding, I love indoor climbing, playing board games and reading
-- 💬 Let's talk about how I can add value to your team!
+- 🎯 **Open to:** Data Analyst / Data Science internship or junior roles
+- 📚 **Currently learning:** Machine Learning & advanced data analysis
+- 🧗 **Off the keyboard:** indoor climbing, board games and reading
+- 💬 **Let's connect** → reach me through the links below!
 
 <h2>🛠️ Languages & Tools</h2>
 
