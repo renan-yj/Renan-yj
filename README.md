@@ -4,32 +4,23 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Future+Data+Scientist;AI+%26+Data+Science+for+Business+Student;Turning+data+into+business+decisions" alt="Typing SVG"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:640/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="600" alt="header gif"/>
 </p>
 
 <h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, Recruiters and Developers!</h2>
 
-I'm **Renan Yuji**, a future **Data Scientist** passionate about new technologies and Artificial Intelligence, focused on using data to generate real **business value**.
+I'm **Renan Yuji**, an **Aspiring Data Scientist** with hands-on experience in **process automation**, passionate about AI and focused on using data to generate real **business value**.
 
-I have hands-on experience with **process automation (RPA)** in the **Per Diem and Travel Management Service** (*Serviço de Gestão de Diárias e Passagens*), where I worked on:
+My experience comes from working with **RPA** at the **Per Diem and Travel Management Service** (*Serviço de Gestão de Diárias e Passagens*), where I worked on:
 
 - ⚙️ **Payment automation** — reducing manual work and speeding up payment flows
 - ✅ **Automated verification** — validating data and requests to minimize errors and rework
 - 🔄 **Low-code solutions** with **Power Apps** and **Power Automate** to streamline internal processes
 
-This experience showed me how technology can turn repetitive, error-prone tasks into **efficient, reliable and scalable processes** — and it's what drives me to combine **automation, data and AI** to deliver real results for businesses.
-
 <h2>🎓 Education</h2>
 
 - ✅ **Systems Analysis and Development** — *completed*
 - 🧠 **Artificial Intelligence & Data Science for Business** — *in progress*
-- 📊 Learning how to apply AI, analytics and data-driven strategies to solve business problems
 
 <h2>🚀 Featured Projects</h2>
 
@@ -69,29 +60,26 @@ This experience showed me how technology can turn repetitive, error-prone tasks 
 <h2>🛠️ Languages & Tools</h2>
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
-</p>
-
-<p align="left">
-  <a href="https://orangedatamining.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Orange-FF9800?style=for-the-badge&logoColor=white" alt="orange"/></a>
-  <a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="claude"/></a>
-  <a href="https://www.microsoft.com/power-platform/products/power-apps" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logoColor=white" alt="power apps"/></a>
-  <a href="https://www.microsoft.com/power-platform/products/power-automate" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logoColor=white" alt="power automate"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logoColor=white" alt="sql server"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img src="https://img.shields.io/badge/Orange-FF9800?style=for-the-badge&logoColor=white" alt="orange"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="claude"/>
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logoColor=white" alt="power apps"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logoColor=white" alt="power automate"/>
   <img src="https://img.shields.io/badge/RPA-FF6F00?style=for-the-badge&logoColor=white" alt="rpa"/>
 </p>
 
 <h3>Other skills</h3>
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/></a>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="dotnet"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="c"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html5"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="css"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="figma"/>
 </p>
 
 <h2>📫 Contact</h2>
@@ -99,7 +87,6 @@ This experience showed me how technology can turn repetitive, error-prone tasks 
 <p align="left">
   <a href="https://www.linkedin.com/in/renanyuji-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:renanyuji05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/renan-yj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <!-- FOOTER -->
